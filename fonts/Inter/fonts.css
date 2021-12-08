@@ -1,22 +1,18 @@
 /* Inter */
-/* Жирный шрифт */
 @font-face {
   font-family: 'Inter';
-  src: url(../fonts/Inter/Inter-Bold.woff) format('woff');
-  src: url(../fonts/Inter/Inter-Bold.woff2) format('woff2');
+  src: url(Inter-Regular.woff) format('woff');
+  src: url(Inter-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  src: url(Inter-Bold.woff) format('woff');
+  src: url(Inter-Bold.woff2) format('woff2');
   font-weight: bold;
 }
-/* Обычные начертание */
 @font-face {
   font-family: 'Inter';
-  src: url(../fonts/Inter/Inter-Regular.woff) format('woff');
-  src: url(../fonts/Inter/Inter-Regular.woff2) format('woff2');
-  font-weight: normal;
-}
-/* Полужирный */
-@font-face {
-  font-family: 'Inter';
-  src: url(../fonts/Inter/Inter-SemiBold.woff) format('woff');
-  src: url(../fonts/Inter/Inter-SemiBold.woff2) format('woff2');
+  src: url(Inter-SemiBold.woff) format('woff');
+  src: url(Inter-SemiBold.woff2) format('woff2');
   font-weight: 600;
 }
