@@ -4,3 +4,6 @@
   font-weight: normal;
   margin: 0;
 }
+.table__text:first-of-type {
+  margin: 0 0 20px 0;
+}
