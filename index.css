@@ -55,11 +55,11 @@
 @import url(./blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(./blocks/resources/resources.css);
 @import url(./blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(./blocks/resources/__logo/resources__logo.css);
-@import url(./blocks/resources/__logo/_arzamas/resources__logo_arzamas.css);
-@import url(./blocks/resources/__logo/_n1/resources__logo_n1.css);
-@import url(./blocks/resources/__logo/_strelka/resources__logo_strelka.css);
-@import url(./blocks/resources/__logo/_polka/resources__logo_polka.css);
+@import url(./blocks/resources/__logo/resources_logo.css);
+@import url(./blocks/resources/__logo/_arzamas/resources_logo_arzamas.css);
+@import url(./blocks/resources/__logo/_n1/resources_logo_n1.css);
+@import url(./blocks/resources/__logo/_strelka/resources_logo_strelka.css);
+@import url(./blocks/resources/__logo/_polka/resources_logo_polka.css);
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__columns/footer__columns.css);
 @import url(./blocks/footer/__column/_content/footer__column_content_copyright.css);
