@@ -7,8 +7,8 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf)
-* [Ссылка на макет в Figma](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
+* [Ссылка на макет в Figma - 1](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf)
+* [Ссылка на макет в Figma - 2](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
 
 **Технологии**
 
